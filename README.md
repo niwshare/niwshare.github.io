@@ -1,4 +1,4 @@
 # niwshare.github.io
 NIW DIY
 
-[file](https://github.com/niwshare/niwshare.github.io/blob/main/niw_petition_share.pdf)
+<a href="niw_petition_share.pdf" download>Download NIW Petition PDF</a>
