@@ -20,3 +20,4 @@ So, I'd like to share my NIW petition as many users on Reddit asked for it. I an
 **By clicking the download button below, you acknowledge that you have read, understood, and agree to the terms and disclaimers listed above, including the strictly non-commercial use of this document.**
 
 [Download NIW Petition PDF](https://github.com/niwshare/niwshare.github.io/releases/download/v1/niw_petition_share.pdf)
+[Download NIW Petition Latex Template](https://github.com/niwshare/niwshare.github.io/releases/download/v1/niw_petition_share.zip)
